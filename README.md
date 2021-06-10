@@ -5,9 +5,8 @@
 <h1 align="center"><b>🇮🇳 ⚜️ Tʜᴇ ᴛɪᴛᴀɴꜱ ᴜꜱᴇʀʙᴏᴛ ⚜️ 🇮🇳 </b></h1>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Python 3.9](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/TitanNetworks/The-Titans-Userbot/)
-[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT.svg)](http://hits.dwyl.com/TitanNetworks/The-Titans-Userbot/)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ranger_nex_op)
 
 Most advanced pluggable Telegram Userbot with more than 400+ Plugins that give you a new taste of Telegram Userbots. Deploy It now to unleash its power 🔥🔥🔥🔥 . [still WIP, not stable]
