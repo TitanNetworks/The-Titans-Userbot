@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://t.me/THETITANS_USERBOT"> <img src="https://telegra.ph/file/2bcd34625ee12c6648feb.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/THETITANS_USERBOT"> <img src="alive_gif.mp4" width="5000"></a></p> 
 
 <h1 align="center"><b>🇮🇳 ⚜️ Tʜᴇ ᴛɪᴛᴀɴꜱ ᴜꜱᴇʀʙᴏᴛ ⚜️ 🇮🇳 </b></h1>
 
