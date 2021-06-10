@@ -10,6 +10,7 @@ Most advanced pluggable Telegram Userbot with more than 400+ Plugins that give y
 
 
 <h2 align="center">The Owner would not be responsible for any kind of bans due to the bot, If you face any ban head to our support we will help you to recover it.</h2>
+<a href="https://t.me/THETITANS_USERBOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <h1 align="center">FORK AT YOUR OWN RISK</h1>
 
