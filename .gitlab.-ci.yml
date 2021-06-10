@@ -1,3 +1,7 @@
+#Copyright@2021 by TitanNetwork
+# abused by @ranger_nex_op
+
+
 CheckUserBotWorking:
   script:
-    - echo "Nothing"
+    - echo "Titan Userbot ne dusre ub ki maa chod dali"
