@@ -9,7 +9,7 @@
 Most advanced pluggable Telegram Userbot with more than 400+ Plugins that give you a new taste of Telegram Userbots. Deploy It now to unleash its power 🔥🔥🔥🔥 . [still WIP, not stable]
 
 
-<h2 align="center">The [![Owner](https://t.me/THETITANS_USERBOT) would not be responsible for any kind of bans due to the bot, If you face any ban head to our support we will help you to recover it.</h2>
+<h2 align="center">The Owner would not be responsible for any kind of bans due to the bot, If you face any ban head to our support we will help you to recover it.</h2>
 
 <h1 align="center">FORK AT YOUR OWN RISK</h1>
 
