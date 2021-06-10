@@ -18,4 +18,30 @@ Most advanced pluggable Telegram Userbot with more than 400+ Plugins that give y
 
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)
+
+
+
+
+## Mandatory Vars
+
+- Only two of the environment variables are mandatory.
+
+- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
+
+    - `APP_ID`:   You can get this value from https://my.telegram.org
+
+    - `API_HASH`:   You can get this value from https://my.telegram.org
+
+- The userbot will not work without setting the mandatory vars.
+
+# Licence 📋
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+
+* Copyright (C) 2020-2021 by TitanNetworks, < https://github.com/TitanNetworks >.
+
+The-Titans-Userbot is Free Software: You can use, study share and improve it at your
+will. Specifically you can redistribute and/or modify it under the terms of the
+[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. 
 *Releasing Soon*
