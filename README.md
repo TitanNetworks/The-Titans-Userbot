@@ -6,6 +6,16 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-Most advanced pluggable Telegram Userbot . 
+Most advanced pluggable Telegram Userbot with more than 400+ Plugins that give you a new taste of Telegram Userbots. Deploy It now to unleash its power 🔥🔥🔥🔥 . [still WIP, not stable]
+
+
+<h2 align="center">The [owner](https://t.me/THETITANS_USERBOT) would not be responsible for any kind of bans due to the bot, If you face any ban head to our support we will help you to recover it.</h2>
+
+<h1 align="center">FORK AT YOUR OWN RISK</h1>
+
+## Installing Heroku 
+
+## Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTitanNetworks%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FTitanNetworks%2FHEROKU)
 
 *Releasing Soon*
