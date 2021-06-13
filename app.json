@@ -1,7 +1,7 @@
 {
   "name": "Titan Userbot",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "description": "The fucking Titan Userbot is ready to be deployed........ Join our support @THETITANS_USERBOT",
+  "logo": "https://telegra.ph/file/e0f4398b3637174e9686f.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/TitanNetworks/The-Titans-Userbot/",
+  "website": "https://github.com/TitanNetworks/The-Titans-Userbot/",
+  "success_url": "https://t.me/THETITANS_USERBOT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @ranger_nex_op. By default it is Titan Master",
+      "value": "@THETITANS_USERBOT",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈I am your daddy because I use Titan Userbot😈",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "description": "Put here any telegraph media link for alive pic in .alive command.",
+      "value": "https://telegra.ph/file/e0f4398b3637174e9686f.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈I am Titan Bot user😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/19394b52001265d943584.mp4,
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -54,7 +54,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "-336323518",
+      "value": "-1001174450494",
       "required": true
     },
     "APP_ID": {
@@ -92,7 +92,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-336323518"
+      "value": "-1001454124360"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
@@ -100,7 +100,7 @@
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-336323518"
+      "value": "-1001454124360"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
