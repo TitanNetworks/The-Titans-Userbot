@@ -80,14 +80,15 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 
 ## CREDITS
-   -[Sensei](https://t.me/ranger_nex_op) 🔥🔥
+ - [Sensei](https://t.me/ranger_nex_op) 🔥🔥
          
 
 
 
 ![Sensei](https://telegra.ph/file/df6dbf1af0d780e38d33c.gif)
    
-     
+  
+- [Arpit Sharma](https://t.me/Arpit_Sharma07)
   
  - Others devs please write your credits
    
