@@ -1,6 +1,6 @@
 from sqlalchemy import Column, String
 
-from AuraXBot.plugins.sql_helper import BASE, SESSION
+from TitanBot.plugins.sql_helper import BASE, SESSION
 
 
 class Moidata(BASE):
