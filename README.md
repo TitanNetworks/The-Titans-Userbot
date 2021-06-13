@@ -80,7 +80,7 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 
 ## CREDITS
-   -[Sensei](https://t.me/Sensei_nex)🔥🔥 Owner of this BOT 🔥🔥
+   -[Sensei](https://t.me/ranger_nex_op) 🔥🔥
          
 
 
