@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is AuraX User",
+      "description": "Fill your Full name. By default it is Titan Master",
       "value": "Titan User",
       "required": false
     },
