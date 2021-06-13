@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String
 
-from AuraXBot.plugins.sql_helper import BASE, SESSION
+from TitanBot.plugins.sql_helper import BASE, SESSION
 
 
 class Users(BASE):
