@@ -17,15 +17,15 @@ from pathlib import Path
 from telethon import events
 from telethon import functions, types
 from telethon.tl.types import InputMessagesFilterDocument
-from AuraXBot.utils import *
+from Titanbot.utils import *
 from userbot import *
 from userbot import bot as AuraXBot
 
 DELETE_TIMEOUT = 5
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "☣ Titan master ☣"
 Titan_logo = ".TITAN/2405.jpg"
-titan = TitanBot.uid
-titan = f"[{DEFAULTUSER}](tg://user?id={aura})"
+aura = TitanBot.uid
+AuraX = f"[{DEFAULTUSER}](tg://user?id={aura})"
 
 @TitanBot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))
 @TitanBot.on(sudo_cmd(pattern=r"send (?P<shortname>\w+)", allow_sudo=True))
