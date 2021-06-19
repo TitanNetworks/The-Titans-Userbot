@@ -32,7 +32,7 @@
       "value": "I am Titan Bot user",
       "required": false
     },
-    "ALIVE_PIC": {
+    "TITAN_IMG": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
       "value": "alive_gif.mp4",
       "required": false
