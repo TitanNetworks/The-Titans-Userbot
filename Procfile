@@ -1,1 +1,1 @@
-worker: bash TITANBOT
+worker: python3 -m TITANBOT
