@@ -13,17 +13,24 @@ class Var(object):
     GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
     GIT_REPO_NAME = os.environ.get("GIT_REPO_NAME", None)
     # Here for later purposes
-    # Userids are of devs, If you are a dev then add your too
-    SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "1004159922 1818129876 1642269125").split())
+    SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "1100231654").split())
+    # Google Drive ()
+    CHROME_BIN = os.environ.get("CHROME_BIN", "/app/.apt/usr/bin/google-chrome")
+    CHROME_DRIVER = os.environ.get(
+        "CHROME_DRIVER", "/app/.chromedriver/bin/chromedriver"
+    )
     WHITELIST_USERS = set(int(x) for x in os.environ.get("WHITELIST_USERS", "").split())
     BLACKLIST_USERS = set(int(x) for x in os.environ.get("BLACKLIST_USERS", "").split())
     DEVLOPERS = set(int(x) for x in os.environ.get("DEVLOPERS", "").split())
     OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID", "").split())
+    EMOJI = os.environ.get("EMOJI", None)
     SUPPORT_USERS = set(int(x) for x in os.environ.get("SUPPORT_USERS", "").split())
     PLUGIN_CHANNEL = int(os.environ.get("PLUGIN_CHANNEL", None)) 
     LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
+    #dont Kang this 
+    botnickname = os.environ.get("BOT_NICK_NAME", None)
     TG_BOT_TOKEN_BF_HER = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
     TG_BOT_USER_NAME_BF_HER = os.environ.get("TG_BOT_USER_NAME_BF_HER", None)
     DOWNLOAD_PFP_URL_CLOCK = os.environ.get("DOWNLOAD_PFP_URL_CLOCK", None)
@@ -47,3 +54,4 @@ class Var(object):
 
 class Development(Var):
     LOGGER = True
+    # Here for later purposes
