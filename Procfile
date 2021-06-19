@@ -1,1 +1,1 @@
-worker: python3 -m TITANBOT
+worker: python3 -m TITAN
