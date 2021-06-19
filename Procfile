@@ -1,1 +1,1 @@
-worker: bash titanbot
+worker: bash TITANBOT
