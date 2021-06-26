@@ -17,8 +17,8 @@ import sys
 import time
 from telethon.sessions import StringSession
 from telethon import TelegramClient
-from TITAN.helpers import functions as simpdef
-from TITAN.Config import Config
+from .helper import Functions as simpdef
+from .Config import Config
 from var import Var
 
 StartTime = time.time()
