@@ -9,7 +9,6 @@ pymediainfo
 aiofiles
 asyncurban
 aiohttp
-aria2p
 async_generator
 beautifulsoup4
 bs4
