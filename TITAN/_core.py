@@ -17,7 +17,7 @@ from pathlib import Path
 from telethon import events
 from telethon import functions, types
 from telethon.tl.types import InputMessagesFilterDocument
-from Titanbot.utils import *
+from .utils import *
 from TITAN import *
 from TITAN import bot as TitanBot
 
