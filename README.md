@@ -17,7 +17,7 @@ Most advanced pluggable Telegram Userbot with more than 400+ Plugins that give y
 <h1 align="center">FORK AT YOUR OWN RISK</h1>
 
 ## Installing Heroku 
-
+https://heroku.com/deploy?template=https://github.com/titanscoder/THE-TITANS-USERBOT
 ## Deploy
 <h4> DEPLOY TO HEROKU </h4>
 
