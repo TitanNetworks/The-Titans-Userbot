@@ -16,8 +16,8 @@ from telethon.errors.rpcerrorlist import PhoneNumberInvalidError
 import os
 from telethon import TelegramClient
 from var import Var
-from TITAN.Config import Config
-from TITAN.utils import load_module
+from .Config import Config
+from .utils import load_module
 from TITAN import LOAD_PLUG, LOGS, Titanversion
 from pathlib import Path
 import asyncio
