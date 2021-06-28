@@ -10,7 +10,7 @@
 
 import time
 from userbot import *
-from TITAN.utils import *
+from ..utils import *
 from TITAN.cmdhelp import CmdHelp
 from telethon import events, version
 from telethon.events import NewMessage
@@ -18,7 +18,7 @@ from telethon.tl.custom import Dialog
 from telethon.tl.types import Channel, Chat, User
 from telethon import version
 from TITAN import ALIVE_NAME, StartTime, Titanversion
-from TITAN.utils import admin_cmd, edit_or_reply, sudo_cmd
+from ..utils import admin_cmd, edit_or_reply, sudo_cmd
 
 
 

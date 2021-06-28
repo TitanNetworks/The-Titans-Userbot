@@ -8,7 +8,7 @@ from telethon.errors import ChatAdminRequiredError
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.functions.users import GetFullUserRequest
 
-from TITAN.utils import admin_cmd , sudo_cmd
+from ..utils import admin_cmd , sudo_cmd
 from TITAN import ALIVE_NAME
 
 naam = str(ALIVE_NAME)

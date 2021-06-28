@@ -10,7 +10,7 @@ from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.types import DocumentAttributeFilename
 
 from TITAN import CMD_HELP
-from TITAN.utils import admin_cmd, edit_or_reply, sudo_cmd
+from ..utils import admin_cmd, edit_or_reply, sudo_cmd
 from TITAN.cmdhelp import CmdHelp
 
 

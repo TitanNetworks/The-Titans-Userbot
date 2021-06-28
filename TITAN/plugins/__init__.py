@@ -12,7 +12,7 @@ from TITAN import *
 from TITAN.Config import Config
 from TITAN.helpers.functions import *
 from TITAN.cmdhelp import CmdHelp
-from TITAN.utils import *
+from ..utils import *
 from telethon import events, version
 from telethon.events import NewMessage
 from telethon.tl.custom import Dialog

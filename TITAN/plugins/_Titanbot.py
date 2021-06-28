@@ -14,7 +14,7 @@
 
 from TITAN import *
 from TITAN import CMD_HELP
-from TITAN.utils import *
+from ..utils import *
 
 
 @bot.on(admin_cmd(pattern="plinfo(?: |$)(.*)", outgoing=True))

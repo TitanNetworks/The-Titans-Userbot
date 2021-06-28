@@ -11,8 +11,8 @@ from telethon.tl.types import (ChannelParticipantsAdmins,
                                    ChatBannedRights,
                                      MessageEntityMentionName,
                                        MessageMediaPhoto)
-from TITAN.utils import register, errors_handler
-from TITAN.utils import admin_cmd
+from ..utils import register, errors_handler
+from ..utils import admin_cmd
 from TITAN import bot as borg
 async def get_full_user(event):  
     args = event.pattern_match.group(1).split(':', 1)

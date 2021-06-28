@@ -16,7 +16,7 @@ from telethon.tl.functions.channels import JoinChannelRequest
 
 from TITAN import *
 from TITAN.cmdhelp import *
-from TITAN.utils import *
+from ..utils import *
 from TITAN.Config import Config
 
 Titan_row = Config.BUTTONS_IN_HELP
